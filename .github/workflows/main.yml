@@ -1,4 +1,4 @@
-name: BOT10
+name: BOT100
 
 on:
   workflow_dispatch:
